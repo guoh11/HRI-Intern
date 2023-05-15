@@ -7,6 +7,8 @@
 
 ### Human Activity Prediction
 
+- `ICCV 2011` Human activity prediction: Early recognition of ongoing activities from streaming videos
+
 
 
 
