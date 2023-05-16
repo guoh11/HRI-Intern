@@ -23,6 +23,14 @@
 
 - Ego4D [[Website](https://ego4d-data.org/)] [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Grauman_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video_CVPR_2022_paper.pdf)]
 
+- Breakfast Actions [[Website](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/)]
+
+- 50 Salads [[Website](https://cvip.computing.dundee.ac.uk/datasets/foodpreparation/50salads/)]
+
+
+
+
+
 
 
 
