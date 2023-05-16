@@ -19,8 +19,8 @@
 
 ## Datasets
 
-- EPIC-KITCHENS [[Website](https://epic-kitchens.github.io/2023)] [[ECCV2018](https://openaccess.thecvf.com/content_ECCV_2018/papers/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.pdf), [TPAMI 2021], []]
-IJCV 2022
+- EPIC-KITCHENS [[Website](https://epic-kitchens.github.io/2023)] [[ECCV2018](https://openaccess.thecvf.com/content_ECCV_2018/papers/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.pdf), [TPAMI 2021], [IJCV 2022]]
+
 - Ego4D [[Website](https://ego4d-data.org/)] [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Grauman_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video_CVPR_2022_paper.pdf)]
 
 
