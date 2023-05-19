@@ -5,9 +5,33 @@
 
 ## Papers
 
+### Long-term action forecasting
+
+- ''
+
+
+
+
+
+
+
 ### Human Activity Prediction
 
 - `ICCV 2011` Human activity prediction: Early recognition of ongoing activities from streaming videos
+
+
+
+## Method to compare with
+
+### Ego4D
+
+
+### EPIC-KITCHENS-55
+
+
+### EPIC-KITCHENS-100
+
+
 
 
 
