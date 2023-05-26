@@ -35,6 +35,7 @@
 - 'TPAMI 2020' Rolling-Unrolling LSTMs for Action Anticipation from First-Person Video [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9088213&casa_token=sAOboJYq5sMAAAAA:lcK_IbDI1NJD9AyQ6WXnkd9Jl-1SMeFNgfMYinh7spMoGzUHMKJ0XZxFMrSc74tXNrD5IuzvY18&tag=1)]
 - `ICCV 2019` What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling LSTMs and Modality Attention [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Furnari_What_Would_You_Expect_Anticipating_Egocentric_Actions_With_Rolling-Unrolling_LSTMs_ICCV_2019_paper.pdf)] [[Supplementary](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Furnari_What_Would_You_ICCV_2019_supplemental.pdf)]
 - `ICCV 2019` Predicting the Future: A Jointly Learnt Model for Action Anticipation [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gammulle_Predicting_the_Future_A_Jointly_Learnt_Model_for_Action_Anticipation_ICCV_2019_paper.pdf)] [[Supplementary](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Gammulle_Predicting_the_Future_ICCV_2019_supplemental.pdf)]
+- `ICCVW 2019` Uncertainty-Aware Anticipation of Activities [[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Abu_Farha_Uncertainty-Aware_Anticipation_of_Activities_ICCVW_2019_paper.pdf)]
 - `CVPR 2019` Time-Conditioned Action Anticipation in One Shot [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ke_Time-Conditioned_Action_Anticipation_in_One_Shot_CVPR_2019_paper.pdf)]
 - `CVPR 2019` Relational Action Forecasting [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Relational_Action_Forecasting_CVPR_2019_paper.pdf)]
 - `CVPR 2018` When will you do what? - Anticipating Temporal Occurrences of Activities [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Abu_Farha_When_Will_You_CVPR_2018_paper.pdf)]
@@ -44,6 +45,7 @@
 - `ICCV 2017` First-Person Activity Forecasting with Online Inverse Reinforcement Learning [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Rhinehart_First-Person_Activity_Forecasting_ICCV_2017_paper.pdf)]
 - `BMVC 2017` RED: Reinforced Encoder-Decoder Networks for Action Anticipation [[Paper](https://arxiv.org/pdf/1707.04818.pdf)]
 - `ICRA 2016` Recurrent Neural Networks for Driver Activity Anticipation via Sensory-Fusion Architecture [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7487478&casa_token=IX3oYg5_uMwAAAAA:DGuERQWj0T2YXSsMydPpU6qtl9Rv6zeAAccUShaFODkb2GT7XHpBgFxr17WTiFTm0MrKy5N6Mgs&tag=1)]
+- `TIP 2016` A Poisson Process Model For Activity Forecasting [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7532978&casa_token=4VVjhkpHKv0AAAAA:UiHm90Z3DrL3yYOmOxB8J3hWtdk4-xDQuz3a4KzqoOdH66phO4u20fIRgTtdiS5AO0I__oZ7rrU)]
 - `ACCV 2016` Long-Term Activity Forecasting using First-Person Vision [[Paper](http://www.cs.cmu.edu/~kkitani/pdf/BK-ACCV16.pdf)]
 - `ACCV 2014` Context-Aware Activity Forecasting [[Paper](https://vcg.engr.ucr.edu/sites/default/files/2019-02/accv_2014.pdf)]
 
