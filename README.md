@@ -72,7 +72,11 @@
 ### Visual-Language Modeling
 
 - `CVPR 2023` HierVL: Learning Hierarchical Video-Language Embeddings [[Paper](https://arxiv.org/pdf/2301.02311.pdf)]
+- `ACL 2023` Text-Derived Knowledge Helps Vision: A Simple Cross-modal Distillation for Video-based Action Anticipation [[Paper](https://aclanthology.org/2023.findings-eacl.141.pdf)]
+- `CVPR 2022` HOP: History-and-Order Aware Pre-training for Vision-and-Language Navigation [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Qiao_HOP_History-and-Order_Aware_Pre-Training_for_Vision-and-Language_Navigation_CVPR_2022_paper.pdf)] [[Supplementary](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Qiao_HOP_History-and-Order_Aware_CVPR_2022_supplemental.pdf)]
 - `ICPR 2022` Cross-modal Contrastive Distillation for Instructional Activity Anticipation [[Paper](https://arxiv.org/pdf/2201.06734.pdf)]
+- `arXiv 2022` Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language [[Paper](https://arxiv.org/pdf/2204.00598.pdf)]
+- `NIPS 2021` History Aware Multimodal Transformer for Vision-and-Language Navigation [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/2e5c2cb8d13e8fba78d95211440ba326-Paper.pdf)]
 - `ICCV 2019` VideoBERT: A Joint Model for Video and Language Representation Learning [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf)]
 
 
