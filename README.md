@@ -74,6 +74,21 @@
 - `ICML 2015` Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning [[Paper](http://proceedings.mlr.press/v48/gal16.pdf)]
 
 
+### "Uncertainty" for Action Related Applications
+- `ECCV 2022` Dual-Evidential Learning for Weakly-supervised Temporal Action Localization [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640190.pdf)]
+- `IJCAI 2022` Uncertainty-Aware Representation Learning for Action Segmentation [[Paper](https://www.ijcai.org/proceedings/2022/0115.pdf)]
+- `IET 2022` Class-wise boundary regression by uncertainty in temporal action detection [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/ipr2.12599)]
+- `TPAMI 2022` Uncertainty Guided Collaborative Training for Weakly Supervised and Unsupervised Temporal Action Localization [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864260&casa_token=exKh8rKa-JEAAAAA:CMXhVqUAM7lZJAETUsu7H_l3x5OYFlmOqLC_azgSGaRr5Qqmexv1DgPqT861EDRV1GIe7CL0JhA&tag=1)]
+- `CVPR 2021` Uncertainty Guided Collaborative Training for Weakly Supervised Temporal Action Localization [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Uncertainty_Guided_Collaborative_Training_for_Weakly_Supervised_Temporal_Action_Detection_CVPR_2021_paper.pdf)]
+- `AAAI 2021` Weakly-supervised Temporal Action Localization by Uncertainty Modeling [[Paper](https://arxiv.org/pdf/2006.07006.pdf)]
+- `ECCV 2020` Uncertainty-Aware Weakly Supervised Action Detection from Untrimmed Videos [[Paper](https://arxiv.org/pdf/2007.10703.pdf)]
+- `BMVC 2020` Refinement of Boundary Regression Using Uncertainty in Temporal Action Localization [[Paper](https://www.bmvc2020-conference.com/assets/papers/0391.pdf)]
+- `ICCV 2019` Robust Person Re-identification by Modelling Feature Uncertainty [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Robust_Person_Re-Identification_by_Modelling_Feature_Uncertainty_ICCV_2019_paper.pdf)]
+- `CVPR 2019` Bayesian Hierarchical Dynamic Model for Human Action Recognition [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Bayesian_Hierarchical_Dynamic_Model_for_Human_Action_Recognition_CVPR_2019_paper.pdf)]
+- `ECCV 2018` What do I Annotate Next? An Empirical Study of Active Learning for Action Localization [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fabian_Caba_What_do_I_ECCV_2018_paper.pdf)]
+
+
+
 
 
 ## Leaderboard
