@@ -4,25 +4,45 @@
 
 ## Papers
 
-### Long-term action forecasting
+### Action Anticipation
 
 - `CVPR 2023` Latency Matters: Real-Time Action Forecasting Transformer [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Girase_Latency_Matters_Real-Time_Action_Forecasting_Transformer_CVPR_2023_paper.pdf)] [[Supplementary](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Girase_Latency_Matters_Real-Time_CVPR_2023_supplemental.pdf)]
 
+- `CVPR 2022` MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_MeMViT_Memory-Augmented_Multiscale_Vision_Transformer_for_Efficient_Long-Term_Video_Recognition_CVPR_2022_paper.pdf)]
+
+- `CVPRW 2022`  Long-term Action Forecasting Using Multi-headed Attention-based Variational Recurrent Neural Networks [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/ABAW/papers/Loh_Long-Term_Action_Forecasting_Using_Multi-Headed_Attention-Based_Variational_Recurrent_Neural_Networks_CVPRW_2022_paper.pdf)]
 
 
 
 
 
 
-### Human Activity Prediction
 
-- `ICCV 2011` Human activity prediction: Early recognition of ongoing activities from streaming videos
+
+
 
 
 ### Early Action Prediction
 
 
+- `CVPR 2023` The Wisdom of Crowds: Temporal Progress Attention for Early Action Prediction [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Stergiou_The_Wisdom_of_Crowds_Temporal_Progressive_Attention_for_Early_Action_CVPR_2023_paper.pdf)]
+
+- `ICCV 2011` Human activity prediction: Early recognition of ongoing activities from streaming videos
+
+
 ### Visual-Language Modeling
+
+- `CVPR 2023` HierVL: Learning Hierarchical Video-Language Embeddings [[Paper](https://arxiv.org/pdf/2301.02311.pdf)]
+- 'ICCV 2019' VideoBERT: A Joint Model for Video and Language Representation Learning [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf)]
+
+
+### Multi-Modal
+- `CVPR 2023` MMG-Ego4D: Multi-Modal Generalization in Egocentric Action Recognition [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gong_MMG-Ego4D_Multimodal_Generalization_in_Egocentric_Action_Recognition_CVPR_2023_paper.pdf)]
+
+
+
+
+
 
 
 
