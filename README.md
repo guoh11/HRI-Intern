@@ -49,25 +49,6 @@
 
 
 
-
-
-
-
-
-
-
-### Early Action Prediction
-
-
-- `CVPR 2023` The Wisdom of Crowds: Temporal Progress Attention for Early Action Prediction [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Stergiou_The_Wisdom_of_Crowds_Temporal_Progressive_Attention_for_Early_Action_CVPR_2023_paper.pdf)]
-
-- `ECCV 2022` ERA: Expert Retrieval and Assembly for Early Action Prediction [[Paper](https://arxiv.org/pdf/2207.09675.pdf)]
-
-- `CVPR 2017` Deep Sequential Context Networks for Action Prediction [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Kong_Deep_Sequential_Context_CVPR_2017_paper.pdf)]
-
-- `ICCV 2011` Human activity prediction: Early recognition of ongoing activities from streaming videos
-
-
 ### Visual-Language Modeling
 
 - `CVPR 2023` HierVL: Learning Hierarchical Video-Language Embeddings [[Paper](https://arxiv.org/pdf/2301.02311.pdf)]
