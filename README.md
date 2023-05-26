@@ -76,6 +76,8 @@
 
 ### "Uncertainty" for Action Related Applications
 - `ECCV 2022` Dual-Evidential Learning for Weakly-supervised Temporal Action Localization [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640190.pdf)]
+- `ECCV 2022` Uncertainty-Based Spatial-Temporal Attention for Online Action Detection [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640068.pdf)]
+- `CVPR 2022` Uncertainty-Guided Probabilistic Transformer for Complex Action Recognition [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Uncertainty-Guided_Probabilistic_Transformer_for_Complex_Action_Recognition_CVPR_2022_paper.pdf)]
 - `IJCAI 2022` Uncertainty-Aware Representation Learning for Action Segmentation [[Paper](https://www.ijcai.org/proceedings/2022/0115.pdf)]
 - `IET 2022` Class-wise boundary regression by uncertainty in temporal action detection [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/ipr2.12599)]
 - `TPAMI 2022` Uncertainty Guided Collaborative Training for Weakly Supervised and Unsupervised Temporal Action Localization [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864260&casa_token=exKh8rKa-JEAAAAA:CMXhVqUAM7lZJAETUsu7H_l3x5OYFlmOqLC_azgSGaRr5Qqmexv1DgPqT861EDRV1GIe7CL0JhA&tag=1)]
