@@ -22,15 +22,19 @@
 - `CVPRW 2022` Long-term Action Forecasting Using Multi-headed Attention-based Variational Recurrent Neural Networks [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/ABAW/papers/Loh_Long-Term_Action_Forecasting_Using_Multi-Headed_Attention-Based_Variational_Recurrent_Neural_Networks_CVPRW_2022_paper.pdf)]
 - `ICCV 2021` Anticipative Video Transformer [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Girdhar_Anticipative_Video_Transformer_ICCV_2021_paper.pdf)] [[Workshop](https://facebookresearch.github.io/AVT/papers/EPICWorkshop2021.pdf)]
 - `TPAMI 2021` Forecasting Action Through Contact Representations From First Person Video [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9340014&casa_token=M6sXHvJQ5ToAAAAA:_Vk68PpBxu3JkrG4imzmpvVYOwNBkOSALIZ1t9NBaP5OkgRGt0scf8H_qfSqfPO7z57w8weCB1o)]
+- `TMM 2021` RESTEP into the Future: Relational Spatio-Temporal Learning for Multi-Person Action Forecasting [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9451613&casa_token=2QQXE-BuQuMAAAAA:y8UFyz9l7brIxe-mZMsY8wVKqei7Y-8L7Ilk81oFrGYNaOuP7jM0b4MzMDR3H5xiF-FQ8c1O0Hg)]
 - `ECCV 2020` Temporal Aggregate Representations for Long-Range Video Understanding [[Paper](https://arxiv.org/pdf/2006.00830.pdf)]
 - 'ECCV 2020' Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video [[Paper](https://arxiv.org/pdf/1911.10967.pdf)]
+- `TIP 2020` Forecasting Future Action Sequences With Attention: A New Approach to Weakly Supervised Action Forecasting [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9194283&casa_token=3O-g-aIbdc0AAAAA:SmCMOvMKVErC6PgTUv9ZLDRWKgl5jsRGgIJS60KR1hF6mcw_9ftbCnpo0KLZ4Lg7ui1UbEeWNE0)]
+- `TIP 2020` Learning to Anticipate Egocentric Actions by Imagination [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9280353&casa_token=bg9n2XdhdVMAAAAA:qXOnX5dj7LoEJHxtsgG1OhjMuvd4GDu-7fNV_n4s9yGTfJOmiyCmc7XaGrxYs1Sw6tLU2mje92o)]
 - 'TPAMI 2020' Rolling-Unrolling LSTMs for Action Anticipation from First-Person Video [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9088213&casa_token=sAOboJYq5sMAAAAA:lcK_IbDI1NJD9AyQ6WXnkd9Jl-1SMeFNgfMYinh7spMoGzUHMKJ0XZxFMrSc74tXNrD5IuzvY18&tag=1)]
 - `ICCV 2019` What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling LSTMs and Modality Attention [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Furnari_What_Would_You_Expect_Anticipating_Egocentric_Actions_With_Rolling-Unrolling_LSTMs_ICCV_2019_paper.pdf)] [[Supplementary](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Furnari_What_Would_You_ICCV_2019_supplemental.pdf)]
 - `ICCV 2019` Predicting the Future: A Jointly Learnt Model for Action Anticipation [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gammulle_Predicting_the_Future_A_Jointly_Learnt_Model_for_Action_Anticipation_ICCV_2019_paper.pdf)] [[Supplementary](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Gammulle_Predicting_the_Future_ICCV_2019_supplemental.pdf)]
-- `ECCV 2018` Action Anticipation with RBF Kernelized Feature Mapping RNN [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuge_Shi_Action_Anticipation_with_ECCV_2018_paper.pdf)]\
+- `ECCV 2018` Action Anticipation with RBF Kernelized Feature Mapping RNN [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuge_Shi_Action_Anticipation_with_ECCV_2018_paper.pdf)]
 - `ECCVW 2018` Action Anticipation By Predicting Future Dynamic Images [[Paper](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Rodriguez_Action_Anticipation_By_Predicting_Future_Dynamic_Images_ECCVW_2018_paper.pdf)]
+- 'ICCV 2017' First-Person Activity Forecasting with Online Inverse Reinforcement Learning [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Rhinehart_First-Person_Activity_Forecasting_ICCV_2017_paper.pdf)]
 - `BMVC 2017` RED: Reinforced Encoder-Decoder Networks for Action Anticipation [[Paper](https://arxiv.org/pdf/1707.04818.pdf)]
-
+- `ICRA 2016` Recurrent Neural Networks for Driver Activity Anticipation via Sensory-Fusion Architecture [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7487478&casa_token=IX3oYg5_uMwAAAAA:DGuERQWj0T2YXSsMydPpU6qtl9Rv6zeAAccUShaFODkb2GT7XHpBgFxr17WTiFTm0MrKy5N6Mgs&tag=1)]
 
 
 
