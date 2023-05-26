@@ -44,6 +44,7 @@
 - `AAAI 2018` Action Prediction from Videos via Memorizing Hard-to-Predict Samples [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12324)]
 - `ICCV 2017` First-Person Activity Forecasting with Online Inverse Reinforcement Learning [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Rhinehart_First-Person_Activity_Forecasting_ICCV_2017_paper.pdf)]
 - `BMVC 2017` RED: Reinforced Encoder-Decoder Networks for Action Anticipation [[Paper](https://arxiv.org/pdf/1707.04818.pdf)]
+- `CVPR 2016` Anticipating Visual Representations from Unlabeled Video [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Vondrick_Anticipating_Visual_Representations_CVPR_2016_paper.pdf)]
 - `ICRA 2016` Recurrent Neural Networks for Driver Activity Anticipation via Sensory-Fusion Architecture [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7487478&casa_token=IX3oYg5_uMwAAAAA:DGuERQWj0T2YXSsMydPpU6qtl9Rv6zeAAccUShaFODkb2GT7XHpBgFxr17WTiFTm0MrKy5N6Mgs&tag=1)]
 - `TIP 2016` A Poisson Process Model For Activity Forecasting [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7532978&casa_token=4VVjhkpHKv0AAAAA:UiHm90Z3DrL3yYOmOxB8J3hWtdk4-xDQuz3a4KzqoOdH66phO4u20fIRgTtdiS5AO0I__oZ7rrU)]
 - `ACCV 2016` Long-Term Activity Forecasting using First-Person Vision [[Paper](http://www.cs.cmu.edu/~kkitani/pdf/BK-ACCV16.pdf)]
