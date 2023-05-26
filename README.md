@@ -78,6 +78,7 @@
 - `arXiv 2022` Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language [[Paper](https://arxiv.org/pdf/2204.00598.pdf)]
 - `NIPS 2021` History Aware Multimodal Transformer for Vision-and-Language Navigation [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/2e5c2cb8d13e8fba78d95211440ba326-Paper.pdf)]
 - `ICCV 2019` VideoBERT: A Joint Model for Video and Language Representation Learning [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf)]
+- `arXiv 2019` Harry Potter and the Action Prediction Challenge from Natural Language [[Paper](https://arxiv.org/pdf/1905.11037.pdf)]
 
 
 ### Multi-Modal
