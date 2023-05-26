@@ -2,12 +2,11 @@
 
 
 
-
 ## Papers
 
 ### Long-term action forecasting
 
-- ''
+- `CVPR 2023` Latency Matters: Real-Time Action Forecasting Transformer [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Girase_Latency_Matters_Real-Time_Action_Forecasting_Transformer_CVPR_2023_paper.pdf)] [[Supplementary](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Girase_Latency_Matters_Real-Time_CVPR_2023_supplemental.pdf)]
 
 
 
@@ -20,10 +19,20 @@
 - `ICCV 2011` Human activity prediction: Early recognition of ongoing activities from streaming videos
 
 
+### Early Action Prediction
+
+
+### Visual-Language Modeling
+
+
 
 ## Method to compare with
 
-### Ego4D
+### Ego4D v1
+
+
+### Ego4D v2
+
 
 
 ### EPIC-KITCHENS-55
