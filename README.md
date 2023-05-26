@@ -114,9 +114,9 @@
 
 - Breakfast Actions [[Website](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/)] [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf)]
 
-- 50 Salads [[Website](https://cvip.computing.dundee.ac.uk/datasets/foodpreparation/50salads/)]
+- 50 Salads [[Website](https://cvip.computing.dundee.ac.uk/datasets/foodpreparation/50salads/)] [[Paper](https://web.archive.org/web/20170808065305id_/http://cvip.computing.dundee.ac.uk/papers/Stein2013UbiComp.pdf)]
 
-- EGTEA GAZE+ [[Website](https://cbs.ic.gatech.edu/fpv/)]
+- EGTEA GAZE+ [[Website](https://cbs.ic.gatech.edu/fpv/)] [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf)]
 
 
 
