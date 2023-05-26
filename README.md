@@ -22,9 +22,13 @@
 - `CVPR 2022` Future Transformer for Long-term Action Anticipation [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Gong_Future_Transformer_for_Long-Term_Action_Anticipation_CVPR_2022_paper.pdf)]
 - `CVPRW 2022`  Long-term Action Forecasting Using Multi-headed Attention-based Variational Recurrent Neural Networks [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/ABAW/papers/Loh_Long-Term_Action_Forecasting_Using_Multi-Headed_Attention-Based_Variational_Recurrent_Neural_Networks_CVPRW_2022_paper.pdf)]
 - `CVPRW 2022` Long-term Action Forecasting Using Multi-headed Attention-based Variational Recurrent Neural Networks [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/ABAW/papers/Loh_Long-Term_Action_Forecasting_Using_Multi-Headed_Attention-Based_Variational_Recurrent_Neural_Networks_CVPRW_2022_paper.pdf)]
+- `WACV 2022` Action anticipation using latent goal learning [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Roy_Action_Anticipation_Using_Latent_Goal_Learning_WACV_2022_paper.pdf)]
 - `ICCV 2021` Anticipative Video Transformer [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Girdhar_Anticipative_Video_Transformer_ICCV_2021_paper.pdf)] [[Workshop](https://facebookresearch.github.io/AVT/papers/EPICWorkshop2021.pdf)]
+- `IJCAI 2021` What If We Could Not See? Counterfactual Analysis for Egocentric Action Anticipation [[Paper](https://www.ijcai.org/proceedings/2021/0182.pdf)]
+- `TPAMI 2021` Self-Regulated Learning for Egocentric Video Activity Anticipation [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9356220&casa_token=ztuZhFWHuwAAAAAA:5oJ6_QMTSCxfEhlJpuwcji3jlCzF2E-5PeCAH0yd5lxWG61-lKQVttHCEE_M35ZrKFN3RmHtsk4&tag=1)]
 - `TPAMI 2021` Forecasting Action Through Contact Representations From First Person Video [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9340014&casa_token=M6sXHvJQ5ToAAAAA:_Vk68PpBxu3JkrG4imzmpvVYOwNBkOSALIZ1t9NBaP5OkgRGt0scf8H_qfSqfPO7z57w8weCB1o)]
 - `TMM 2021` RESTEP into the Future: Relational Spatio-Temporal Learning for Multi-Person Action Forecasting [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9451613&casa_token=2QQXE-BuQuMAAAAA:y8UFyz9l7brIxe-mZMsY8wVKqei7Y-8L7Ilk81oFrGYNaOuP7jM0b4MzMDR3H5xiF-FQ8c1O0Hg)]
+- `TIP 2021` Action Anticipation Using Pairwise Human-Object Interactions and Transformers [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9546623&casa_token=DWRuhZgJC58AAAAA:EJw36uov4iYtgX6TFtyRcFUzpQiEwFvFzZ1icrmo1PQ2v0lPUW9wdjAilK7O_PbH3-3FguFMPR4)]
 - `ECCV 2020` Temporal Aggregate Representations for Long-Range Video Understanding [[Paper](https://arxiv.org/pdf/2006.00830.pdf)]
 - 'ECCV 2020' Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video [[Paper](https://arxiv.org/pdf/1911.10967.pdf)]
 - `TIP 2020` Forecasting Future Action Sequences With Attention: A New Approach to Weakly Supervised Action Forecasting [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9194283&casa_token=3O-g-aIbdc0AAAAA:SmCMOvMKVErC6PgTUv9ZLDRWKgl5jsRGgIJS60KR1hF6mcw_9ftbCnpo0KLZ4Lg7ui1UbEeWNE0)]
@@ -68,6 +72,7 @@
 ### Visual-Language Modeling
 
 - `CVPR 2023` HierVL: Learning Hierarchical Video-Language Embeddings [[Paper](https://arxiv.org/pdf/2301.02311.pdf)]
+- `ICPR 2022` Cross-modal Contrastive Distillation for Instructional Activity Anticipation [[Paper](https://arxiv.org/pdf/2201.06734.pdf)]
 - `ICCV 2019` VideoBERT: A Joint Model for Video and Language Representation Learning [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf)]
 
 
