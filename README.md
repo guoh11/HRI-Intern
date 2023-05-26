@@ -69,7 +69,7 @@
 
 
 ### Uncertainty Modeling
-- 'NIPS 2018' Predictive Uncertainty Estimation via Prior Networks [[Paper](https://proceedings.neurips.cc/paper/2018/file/3ea2db50e62ceefceaf70a9d9a56a6f4-Paper.pdf)]
+- `NIPS 2018` Predictive Uncertainty Estimation via Prior Networks [[Paper](https://proceedings.neurips.cc/paper/2018/file/3ea2db50e62ceefceaf70a9d9a56a6f4-Paper.pdf)]
 - `NIPS 2017` What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? [[Paper](https://proceedings.neurips.cc/paper/2017/file/2650d6089a6d640c5e85b2b88265dc2b-Paper.pdf)]
 - `ICML 2015` Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning [[Paper](http://proceedings.mlr.press/v48/gal16.pdf)]
 
