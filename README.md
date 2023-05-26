@@ -1,11 +1,9 @@
 # HRI-Intern
 
 
-
 ## Papers
 
 ### Action Anticipation
-
 
 - `CVPR 2023` Latency Matters: Real-Time Action Forecasting Transformer [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Girase_Latency_Matters_Real-Time_Action_Forecasting_Transformer_CVPR_2023_paper.pdf)] [[Supplementary](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Girase_Latency_Matters_Real-Time_CVPR_2023_supplemental.pdf)]
 
@@ -24,6 +22,7 @@
 - `CVPRW 2022` Long-term Action Forecasting Using Multi-headed Attention-based Variational Recurrent Neural Networks [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/ABAW/papers/Loh_Long-Term_Action_Forecasting_Using_Multi-Headed_Attention-Based_Variational_Recurrent_Neural_Networks_CVPRW_2022_paper.pdf)]
 - `WACV 2022` Action anticipation using latent goal learning [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Roy_Action_Anticipation_Using_Latent_Goal_Learning_WACV_2022_paper.pdf)]
 - `ICCV 2021` Anticipative Video Transformer [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Girdhar_Anticipative_Video_Transformer_ICCV_2021_paper.pdf)] [[Workshop](https://facebookresearch.github.io/AVT/papers/EPICWorkshop2021.pdf)]
+- `CVPR 2021` Learning the Predictability of the Future [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Suris_Learning_the_Predictability_of_the_Future_CVPR_2021_paper.pdf)]
 - `IJCAI 2021` What If We Could Not See? Counterfactual Analysis for Egocentric Action Anticipation [[Paper](https://www.ijcai.org/proceedings/2021/0182.pdf)]
 - `TPAMI 2021` Self-Regulated Learning for Egocentric Video Activity Anticipation [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9356220&casa_token=ztuZhFWHuwAAAAAA:5oJ6_QMTSCxfEhlJpuwcji3jlCzF2E-5PeCAH0yd5lxWG61-lKQVttHCEE_M35ZrKFN3RmHtsk4&tag=1)]
 - `TPAMI 2021` Forecasting Action Through Contact Representations From First Person Video [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9340014&casa_token=M6sXHvJQ5ToAAAAA:_Vk68PpBxu3JkrG4imzmpvVYOwNBkOSALIZ1t9NBaP5OkgRGt0scf8H_qfSqfPO7z57w8weCB1o)]
@@ -96,30 +95,15 @@
 
 
 
-
-
-
-
-## Method to compare with
+## Leaderboard
 
 ### Ego4D v1
 
-
 ### Ego4D v2
-
-
 
 ### EPIC-KITCHENS-55
 
-
 ### EPIC-KITCHENS-100
-
-
-
-
-
-
-
 
 
 
