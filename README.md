@@ -43,6 +43,7 @@
 - `CVPR 2018` When will you do what? - Anticipating Temporal Occurrences of Activities [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Abu_Farha_When_Will_You_CVPR_2018_paper.pdf)]
 - `ECCV 2018` Action Anticipation with RBF Kernelized Feature Mapping RNN [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuge_Shi_Action_Anticipation_with_ECCV_2018_paper.pdf)]
 - `ECCVW 2018` Action Anticipation By Predicting Future Dynamic Images [[Paper](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Rodriguez_Action_Anticipation_By_Predicting_Future_Dynamic_Images_ECCVW_2018_paper.pdf)]
+- `ECCVW 2018` Leveraging Uncertainty to Rethink Loss Functions and Evaluation Measures for Egocentric Action Anticipation [[Paper](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Furnari_Leveraging_Uncertainty_to_Rethink_Loss_Functions_and_Evaluation_Measures_for_ECCVW_2018_paper.pdf)]
 - `AAAI 2018` Action Prediction from Videos via Memorizing Hard-to-Predict Samples [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12324)]
 - `ICCV 2017` First-Person Activity Forecasting with Online Inverse Reinforcement Learning [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Rhinehart_First-Person_Activity_Forecasting_ICCV_2017_paper.pdf)]
 - `BMVC 2017` RED: Reinforced Encoder-Decoder Networks for Action Anticipation [[Paper](https://arxiv.org/pdf/1707.04818.pdf)]
