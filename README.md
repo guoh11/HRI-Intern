@@ -98,7 +98,7 @@
 
 ### Verb-Noun Modeling
 
-- 'VC 2017' What’s in a name? The influence of verbal labels on action production in novel object/action associations [[Paper](https://drive.google.com/file/d/1_fPmRo5Kk0PMpvZzT-tlAcNjs3xO07fk/view?usp=sharing)]
+- `VC 2017` What’s in a name? The influence of verbal labels on action production in novel object/action associations [[Paper](https://drive.google.com/file/d/1_fPmRo5Kk0PMpvZzT-tlAcNjs3xO07fk/view?usp=sharing)]
 
 
 
