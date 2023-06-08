@@ -96,6 +96,15 @@
 - `ECCV 2018` What do I Annotate Next? An Empirical Study of Active Learning for Action Localization [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fabian_Caba_What_do_I_ECCV_2018_paper.pdf)]
 
 
+### Verb-Noun Modeling
+
+- 'VC 2017' What’s in a name? The influence of verbal labels on action production in novel object/action associations [[Paper](https://drive.google.com/file/d/1_fPmRo5Kk0PMpvZzT-tlAcNjs3xO07fk/view?usp=sharing)]
+
+
+
+
+
+
 
 
 
