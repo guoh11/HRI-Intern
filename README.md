@@ -98,6 +98,7 @@
 
 ### Verb-Noun Modeling
 
+- `ICCV 2019` EPIC-Fusion: Audio-Visual Temporal Binding for Egocentric Action Recognition [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kazakos_EPIC-Fusion_Audio-Visual_Temporal_Binding_for_Egocentric_Action_Recognition_ICCV_2019_paper.pdf)]
 - `VC 2017` What’s in a name? The influence of verbal labels on action production in novel object/action associations [[Paper](https://drive.google.com/file/d/1_fPmRo5Kk0PMpvZzT-tlAcNjs3xO07fk/view?usp=sharing)]
 
 
