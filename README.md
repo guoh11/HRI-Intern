@@ -58,6 +58,7 @@
 ### Visual-Language Modeling
 
 - `CVPR 2023` HierVL: Learning Hierarchical Video-Language Embeddings [[Paper](https://arxiv.org/pdf/2301.02311.pdf)]
+- `CVPR 2023` Learning Video Representations from Large Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Learning_Video_Representations_From_Large_Language_Models_CVPR_2023_paper.pdf)]
 - `ACL 2023` Text-Derived Knowledge Helps Vision: A Simple Cross-modal Distillation for Video-based Action Anticipation [[Paper](https://aclanthology.org/2023.findings-eacl.141.pdf)]
 - `CVPR 2022` HOP: History-and-Order Aware Pre-training for Vision-and-Language Navigation [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Qiao_HOP_History-and-Order_Aware_Pre-Training_for_Vision-and-Language_Navigation_CVPR_2022_paper.pdf)] [[Supplementary](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Qiao_HOP_History-and-Order_Aware_CVPR_2022_supplemental.pdf)]
 - `ICPR 2022` Cross-modal Contrastive Distillation for Instructional Activity Anticipation [[Paper](https://arxiv.org/pdf/2201.06734.pdf)]
