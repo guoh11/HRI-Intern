@@ -57,6 +57,7 @@
 
 ### Visual-Language Modeling
 
+- `CVPR 2023` A-CAP: Anticipation Captioning with Commonsense Knowledge [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Vo_A-Cap_Anticipation_Captioning_With_Commonsense_Knowledge_CVPR_2023_paper.pdf)]
 - 'arXiv 2023' BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models [[Paper](https://arxiv.org/pdf/2301.12597.pdf)]
 - `CVPR 2023` HierVL: Learning Hierarchical Video-Language Embeddings [[Paper](https://arxiv.org/pdf/2301.02311.pdf)]
 - `CVPR 2023` Learning Video Representations from Large Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Learning_Video_Representations_From_Large_Language_Models_CVPR_2023_paper.pdf)]
