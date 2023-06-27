@@ -5,7 +5,7 @@
 
 ### Action Anticipation
 
-- `arXiv 2023` Predicting the Next Action by Modeling the Abstract Goal [[Paper]([https://arxiv.org/pdf/2209.05044.pdf](https://arxiv.org/pdf/2209.05044.pdf))]
+- `arXiv 2023` Predicting the Next Action by Modeling the Abstract Goal [[Paper](https://arxiv.org/pdf/2209.05044.pdf)]
 
 - `CVPR 2023` Latency Matters: Real-Time Action Forecasting Transformer [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Girase_Latency_Matters_Real-Time_Action_Forecasting_Transformer_CVPR_2023_paper.pdf)] [[Supplementary](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Girase_Latency_Matters_Real-Time_CVPR_2023_supplemental.pdf)]
 
