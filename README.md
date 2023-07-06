@@ -101,6 +101,7 @@
 
 ### Verb-Noun Modeling
 
+- `ICCV 2021` Interactive Prototype Learning for Egocentric Action Recognition [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Interactive_Prototype_Learning_for_Egocentric_Action_Recognition_ICCV_2021_paper.pdf)]
 - `AAAI 2020` Symbiotic Attention with Privileged Information for Egocentric Action Recognition [[Paper](https://drive.google.com/file/d/1acm7gFMLwF8hABP4T4xMQ17x7nRQwk34/view?usp=sharing)]
 - `ICCV 2019` EPIC-Fusion: Audio-Visual Temporal Binding for Egocentric Action Recognition [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kazakos_EPIC-Fusion_Audio-Visual_Temporal_Binding_for_Egocentric_Action_Recognition_ICCV_2019_paper.pdf)]
 - `CVPR 2019` Large-scale weakly-supervised pre-training for video action recognition [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ghadiyaram_Large-Scale_Weakly-Supervised_Pre-Training_for_Video_Action_Recognition_CVPR_2019_paper.pdf)]
